@@ -1,0 +1,14 @@
+C:\Users\yekat\Documents\Lab02-Дьяконова\bin\Debug\net10.0\Lab02-Дьяконова.exe
+C:\Users\yekat\Documents\Lab02-Дьяконова\bin\Debug\net10.0\Lab02-Дьяконова.deps.json
+C:\Users\yekat\Documents\Lab02-Дьяконова\bin\Debug\net10.0\Lab02-Дьяконова.runtimeconfig.json
+C:\Users\yekat\Documents\Lab02-Дьяконова\bin\Debug\net10.0\Lab02-Дьяконова.dll
+C:\Users\yekat\Documents\Lab02-Дьяконова\bin\Debug\net10.0\Lab02-Дьяконова.pdb
+C:\Users\yekat\Documents\Lab02-Дьяконова\obj\Debug\net10.0\Lab02-Дьяконова.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yekat\Documents\Lab02-Дьяконова\obj\Debug\net10.0\Lab02-Дьяконова.AssemblyInfoInputs.cache
+C:\Users\yekat\Documents\Lab02-Дьяконова\obj\Debug\net10.0\Lab02-Дьяконова.AssemblyInfo.cs
+C:\Users\yekat\Documents\Lab02-Дьяконова\obj\Debug\net10.0\Lab02-Дьяконова.csproj.CoreCompileInputs.cache
+C:\Users\yekat\Documents\Lab02-Дьяконова\obj\Debug\net10.0\Lab02-Дьяконова.dll
+C:\Users\yekat\Documents\Lab02-Дьяконова\obj\Debug\net10.0\refint\Lab02-Дьяконова.dll
+C:\Users\yekat\Documents\Lab02-Дьяконова\obj\Debug\net10.0\Lab02-Дьяконова.pdb
+C:\Users\yekat\Documents\Lab02-Дьяконова\obj\Debug\net10.0\Lab02-Дьяконова.genruntimeconfig.cache
+C:\Users\yekat\Documents\Lab02-Дьяконова\obj\Debug\net10.0\ref\Lab02-Дьяконова.dll
