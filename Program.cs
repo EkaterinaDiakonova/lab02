@@ -105,9 +105,23 @@ char favoriteLetter = Console.ReadLine()[0];
 int age = 2030 - birthYear1;
 bool ball = gpa1 >= 4.0; 
 
-
 Console.WriteLine($"Студент: {fullName1}, группа: {group}");
 Console.WriteLine($"Год рождения: {birthYear1} (в 2030 году будет {age} лет)");
 Console.WriteLine($"Средний балл: {gpa1}");
 Console.WriteLine($"Балл >= 4.0: {ball}");
 Console.WriteLine($"Любимая буква: {favoriteLetter}");
+
+Console.WriteLine();
+Console.WriteLine("Калькулятор ИМТ");
+
+Console.Write("Введите рост в метрах: ");
+string heightInput = Console.ReadLine();
+double height = double.Parse(heightInput);
+
+Console.Write("Введите вес в кг: ");
+string weightInput = Console.ReadLine();
+double weight = double.Parse(weightInput);
+
+double bmi = weight / (height * height);
+
+Console.WriteLine($"ИМТ: {bmi:F2}");
