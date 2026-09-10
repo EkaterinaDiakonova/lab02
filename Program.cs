@@ -103,12 +103,12 @@ Console.Write("Введите любимую букву: ");
 char favoriteLetter = Console.ReadLine()[0]; 
 
 int age = 2030 - birthYear1;
-bool ball = gpa1 >= 4.0; 
+bool isb = true;
 
 Console.WriteLine($"Студент: {fullName1}, группа: {group}");
 Console.WriteLine($"Год рождения: {birthYear1} (в 2030 году будет {age} лет)");
 Console.WriteLine($"Средний балл: {gpa1}");
-Console.WriteLine($"Балл >= 4.0: {ball}");
+Console.WriteLine($"Балл >= 4.0: {isb}");
 Console.WriteLine($"Любимая буква: {favoriteLetter}");
 
 Console.WriteLine();

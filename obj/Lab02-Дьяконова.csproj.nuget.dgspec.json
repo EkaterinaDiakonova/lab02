@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yekat\\Documents\\Lab02-Дьяконова\\Lab02-Дьяконова.csproj": {}
+    "C:\\Users\\yekat\\Documents\\lab02-Дьяконова\\Lab02-Дьяконова.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yekat\\Documents\\Lab02-Дьяконова\\Lab02-Дьяконова.csproj": {
+    "C:\\Users\\yekat\\Documents\\lab02-Дьяконова\\Lab02-Дьяконова.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yekat\\Documents\\Lab02-Дьяконова\\Lab02-Дьяконова.csproj",
+        "projectUniqueName": "C:\\Users\\yekat\\Documents\\lab02-Дьяконова\\Lab02-Дьяконова.csproj",
         "projectName": "Lab02-Дьяконова",
-        "projectPath": "C:\\Users\\yekat\\Documents\\Lab02-Дьяконова\\Lab02-Дьяконова.csproj",
+        "projectPath": "C:\\Users\\yekat\\Documents\\lab02-Дьяконова\\Lab02-Дьяконова.csproj",
         "packagesPath": "C:\\Users\\yekat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yekat\\Documents\\Lab02-Дьяконова\\obj\\",
+        "outputPath": "C:\\Users\\yekat\\Documents\\lab02-Дьяконова\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yekat\\AppData\\Roaming\\NuGet\\NuGet.Config"
