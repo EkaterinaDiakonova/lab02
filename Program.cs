@@ -138,3 +138,23 @@ string firstName = Console.ReadLine();
 char initial = firstName[0];
 
 Console.WriteLine($"{lastName}{initial}.");
+
+
+
+
+Console.WriteLine("TryParse на трех типах");
+Console.WriteLine("Введите целое число");
+string intInput = Console.ReadLine();
+bool int1 = int.TryParse(intInput, out int intCount);
+Console.WriteLine($"Целое: вывод = {int1}, результат = {intCount}");
+
+
+Console.WriteLine("Введите дробное число");
+string doubleInput = Console.ReadLine();
+bool double1 = double.TryParse(doubleInput, out double doubleCount);
+Console.WriteLine($"Дробное: вывод = {double1}, результат = {doubleCount}");
+
+Console.WriteLine("Введите дату");
+string dateInput = Console.ReadLine();
+bool date1 = DateTime.TryParse(dateInput, out DateTime dateCount);
+Console.WriteLine($"Дата: вывод = {date1}, результат = {dateCount}");
